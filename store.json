@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SmartTube",
+    "package": "org.smarttube.stable",
+    "repo": "yuliskov/SmartTube",
+    "description": "YouTube giao diện TV, nhẹ, không cần tài khoản Google"
+  },
+  {
+    "name": "RetroArch",
+    "package": "com.retroarch",
+    "repo": "libretro/RetroArch",
+    "description": "Giả lập đa hệ qua core libretro"
+  },
+  {
+    "name": "Amaze",
+    "package": "com.amaze.filemanager",
+    "repo": "TeamAmaze/AmazeFileManager",
+    "description": "Quản lý file mã nguồn mở"
+  },
+  {
+    "name": "HeliBoard",
+    "package": "helium314.keyboard",
+    "repo": "HeliBorg/HeliBoard",
+    "description": "Bàn phím mã nguồn mở, nhẹ"
+  }
+]
